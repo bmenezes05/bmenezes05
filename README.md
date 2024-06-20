@@ -30,12 +30,12 @@ Throughout my career, I've had the opportunity to work with a diverse set of tec
 
 ## 📈 My GitHub Stats
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmenezes05&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
-- **LinkedIn**: [Bruno Menezes](https://www.linkedin.com/in/your-linkedin-profile)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [Bruno Menezes](https://www.linkedin.com/in/brunomenezes5/)
+- **Email**: [bmenezes05@gmail.com](mailto:bmenezes05@gmail.com)
 
 ## 🌱 I'm Currently Learning
 
@@ -48,19 +48,6 @@ Throughout my career, I've had the opportunity to work with a diverse set of tec
 - AWS Certified Solutions Architect
 - Microsoft Certified: Azure Solutions Architect Expert
 - Google Cloud Professional Cloud Architect
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- If you have a blog, list your latest posts here -->
-<!-- BLOG-POST-LIST:END -->
-
-## 🌟 Featured Projects
-
-- **Project 1**: [Project Name](https://github.com/your-github-username/project1) - Brief description of the project.
-- **Project 2**: [Project Name](https://github.com/your-github-username/project2) - Brief description of the project.
-
-Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
 
 ---
 
