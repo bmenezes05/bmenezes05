@@ -57,12 +57,6 @@ Throughout my career, I've had the opportunity to work with a diverse set of tec
 - Enhancing my skills in machine learning and data science.
 - Keeping up with the latest trends in software development and architecture.
 
-## 📜 Certifications
-
-- AWS Certified Solutions Architect
-- Microsoft Certified: Azure Solutions Architect Expert
-- Google Cloud Professional Cloud Architect
-
 ---
 
 Thank you for visiting my profile. Have a great day! 🚀
