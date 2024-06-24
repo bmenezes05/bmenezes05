@@ -26,6 +26,7 @@ Throughout my career, I've had the opportunity to work with a diverse set of tec
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bmenezes05&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" style="float:left"/>
 
 ## 🧑‍💻 About Me
 
@@ -44,10 +45,7 @@ Throughout my career, I've had the opportunity to work with a diverse set of tec
 
 ## 📈 My GitHub Stats
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmenezes05&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bmenezes05&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+<img src="https://myreadme.vercel.app/api/embed/bmenezes05?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ## 📫 How to Reach Me
 
